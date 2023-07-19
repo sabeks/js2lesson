@@ -1,7 +1,7 @@
 console.log(`hello world`);
 
 const numberArrays = [2, 4, 6, 8, 10, 12];
-// console.log(numberArrays);
+console.log(numberArrays);
 numberArrays.unshift(12);
 // console.log(numberArrays);
 
@@ -13,8 +13,9 @@ const device = [
 ];
 // console.log(device);
 const arr1 = [11, 12, 13, 14, 15];
-// console.log(arr1);
-// console.log(arr1.length);
+const num = numbers[0] + numbers[1] + numbers[2] + numbers[3] + numbers[4];
+const num1 = num / numberArrays.length;
+console.log(arr1);
 const zoomer = [
   {
     phoneName: "iphone 12 pro",
