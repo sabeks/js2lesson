@@ -13,7 +13,7 @@ const device = [
 ];
 // console.log(device);
 const arr1 = [11, 12, 13, 14, 15];
-const num = numbers[0] + numbers[1] + numbers[2] + numbers[3] + numbers[4];
+const num = arr1[0] + arr1[1] + arr1[2] + arr1[3] + arr1[4];
 const num1 = num / numberArrays.length;
 console.log(arr1);
 const zoomer = [
